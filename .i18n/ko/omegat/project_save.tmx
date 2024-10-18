@@ -4,6 +4,63 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Contributing</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241018T041810Z" creationid="chabulhwi" creationdate="20241018T041721Z">
+        <seg>기여하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contributions to the Korean translation of &lt;g1&gt;NNG4&lt;/g1&gt; are always welcome!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241018T041810Z" creationid="chabulhwi" creationdate="20241018T041731Z">
+        <seg>&lt;g1&gt;NNG4&lt;/g1&gt;의 한국어 번역에 기여하는 활동은 언제든지 환영합니다!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English | &lt;g1&gt;한국어[Korean]&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241018T041810Z" creationid="chabulhwi" creationdate="20241018T041720Z">
+        <seg>[English (영어)](./README.md) | 한국어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I (&lt;g1&gt;Bulhwi Cha&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e6/&gt;) use &lt;g3&gt;OmegaT&lt;/g3&gt;&lt;g4&gt;&lt;/g4&gt;&lt;e7/&gt; to translate English documentation into
+Korean.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241018T042059Z" creationid="chabulhwi" creationdate="20241018T041735Z">
+        <seg>저(&lt;g1&gt;차불휘&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e6/&gt;)는 &lt;g3&gt;오메가T(OmegaT)&lt;/g3&gt;&lt;g4&gt;&lt;/g4&gt;&lt;e7/&gt;를 이용해 영어 문서를 한국어로 번역합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Korean Translation</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241018T041810Z" creationid="chabulhwi" creationdate="20241018T041732Z">
+        <seg>한국어 번역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NNG4</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241018T041617Z" creationid="chabulhwi" creationdate="20241018T041617Z">
+        <seg>NNG4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project is in this directory, that is, &lt;g5&gt;.i18n/ko&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241018T041752Z" creationid="chabulhwi" creationdate="20241018T041752Z">
+        <seg>오메가T 프로젝트는 이 디렉터리, 다시 말해 &lt;g5&gt;.i18n/ko&lt;/g5&gt;에 있습니다.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
