@@ -3,12 +3,3 @@ lake-packages/
 .lake/
 **/.DS_Store
 .i18n/**/*.mo
-
-.i18n/ko/ko-level1.tmx
-.i18n/ko/ko-level2.tmx
-.i18n/ko/ko-omegat.tmx
-.i18n/ko/**/*.bak
-.i18n/ko/omegat/last_entry.properties
-.i18n/ko/omegat/files_order.txt
-.i18n/ko/omegat/project_stats.txt
-.i18n/ko/tm/*.tmx
