@@ -6,3 +6,5 @@
 /omegat/files_order.txt
 /omegat/project_stats.txt
 /tm/*.tmx
+
+/*/Game.json
